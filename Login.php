@@ -56,7 +56,7 @@
 			</form>
   </div>
 
-<script src="/vendor/jquery.js"></script>
+<script src="/vendor"></script>
 
 </body>
 </html>
