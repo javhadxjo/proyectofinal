@@ -2,7 +2,7 @@
 <?php
 
    
-
+require('vendor/autoload.php');
 
 	require_once ('conexiondb.php');
    $conectar=conectarBD();
